@@ -12,3 +12,8 @@ img {
 	margin-left: auto;
 	margin-right: auto;
 }
+
+@media (min-width: 767px) {
+	img {
+	weight: 100%;
+	}
